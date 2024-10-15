@@ -48,6 +48,8 @@ class Program
             Console.WriteLine(video.DisplayVideo());
             Console.WriteLine(video.GetAmountOfComments());
             Console.WriteLine("");
+            video.DisplayComments();
+            Console.WriteLine("");
         }
     }
 }
