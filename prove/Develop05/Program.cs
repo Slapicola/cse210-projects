@@ -63,7 +63,5 @@ class Program
             Console.Write("Select a choice from the menu: ");
             userChoice = Console.ReadLine();
         }
-
-        
     }
 }
